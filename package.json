@@ -1,7 +1,7 @@
 {
   "name": "last-result",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Create an evented async interface that emits the last result from a series of calls",
   "license": "MIT",
   "repository": "bendrucker/last-result",
