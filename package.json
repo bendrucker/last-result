@@ -1,0 +1,39 @@
+{
+  "name": "last-result",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Create an evented async interface that emits the last result from a series of calls",
+  "license": "MIT",
+  "repository": "bendrucker/last-result",
+  "author": {
+    "name": "Ben Drucker",
+    "email": "bvdrucker@gmail.com",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "last",
+    "result",
+    "async",
+    "events",
+    "callback",
+    "race"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^6.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "observ": "~0.2.0",
+    "observ-struct": "~6.0.0",
+    "value-error": "~1.0.0",
+    "weakmap-event": "~2.0.6",
+    "weakmap-shim": "~1.1.0",
+    "xtend": "~4.0.1"
+  }
+}
