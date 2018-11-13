@@ -1,4 +1,4 @@
-# last-result [![Build Status](https://travis-ci.org/bendrucker/last-result.svg?branch=master)](https://travis-ci.org/bendrucker/last-result)
+# last-result [![Build Status](https://travis-ci.org/bendrucker/last-result.svg?branch=master)](https://travis-ci.org/bendrucker/last-result) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/last-result.svg)](https://greenkeeper.io/)
 
 > Create an evented async interface that emits the last result from a series of calls
 
